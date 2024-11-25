@@ -1,0 +1,43 @@
+#skill {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+h3 {
+  text-align: center;
+}
+#Projects {
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: mistyrose;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+img {
+  border-radius: 22%;
+  border: dotted 3px royalblue;
+  height: 150px;
+  width: auto;
+}
+button {
+  margin-bottom: 20px;
+  float: right;
+}
+#my {
+  border-radius: 100%;
+  align-items: center;
+  border-style: dotted;
+  border-color: violet;
+  margin-right: 50%;
+  margin-left: 50%;
+}
