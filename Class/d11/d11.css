@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.divtop {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.divtop2 {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+nav {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.diptopinside span {
+  gap: 20px;
+}
+body {
+  margin: 100px;
+}
