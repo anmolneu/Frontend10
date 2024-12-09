@@ -118,3 +118,18 @@ button {
   display: flex;
   gap: 10px;
 }
+.mid_img_container {
+  position: relative;
+  width: 50%;
+}
+.mid_img_child {
+  color: white;
+  bottom: 15px;
+  left: 15px;
+  position: absolute;
+  size: 20%;
+}
+.mid_img_child button {
+  color: black;
+  background-color: white;
+}
